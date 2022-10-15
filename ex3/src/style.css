@@ -1,0 +1,110 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td { 
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100vh;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eee;
+}
+
+.calculator__wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.button, .double__button, .triple__button {
+    border: 0;
+    outline: none;
+    background-color: #2F2F2F;
+    color: #eee;
+}
+
+.button {
+    width: 65px;
+    height: 65px;
+    transition: all .2s linear;
+}
+
+.button:hover, .double__button:hover, .triple__button:hover {
+    background-color: #3d3b3b;
+    cursor: pointer;
+}
+
+.double__button {
+    width: 130px;
+    height: 65px;
+}
+
+.triple__button {
+    width: 195px;
+    height: 65px;
+}
+
+#button__equals {
+    background-color: #c39136;
+    border-bottom-right-radius: 5px;
+}
+
+#button__equals:hover {
+    background-color: #daa543;
+}
+
+#button__zero {
+    border-bottom-left-radius: 5px;
+}
+
+input[type=text] {
+    background-color: #c7d2b6;
+    border: 0;
+    outline: none;
+    width: 100%;
+    height: 65px;
+    min-height: 30px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: right;
+    font-size: 1.1em;
+}
+
+.calculator__wrapper.error {
+    -webkit-animation: shake 0.2s ease-in-out 0s 2;
+            animation: shake 0.2s ease-in-out 0s 2;
+}
+  
+@-webkit-keyframes shake {
+    0% {
+        margin-left: 0rem;
+    } 25% {
+        margin-left: 0.5rem;
+    } 75% {
+        margin-left: -0.5rem;
+    } 100% {
+        margin-left: 0rem;
+    }
+}
+  
+@keyframes shake {
+    0% {
+        margin-left: 0rem;
+    } 25% {
+        margin-left: 0.5rem;
+    } 75% {
+        margin-left: -0.5rem;
+    } 100% {
+        margin-left: 0rem;
+    }
+}
