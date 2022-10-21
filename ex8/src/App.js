@@ -12,7 +12,7 @@ export default class App extends Component {
       <>
         { this.timezones.map((timezone, index) => {
           return <div key={ index }>
-            <p>{ timezone }:</p>
+            <p><strong>{ timezone }:</strong></p>
             <Clock timezone={ timezone } />
           </div>
         })}
