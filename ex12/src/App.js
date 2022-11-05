@@ -19,7 +19,7 @@ function App() {
         if (res.ok) setFilms(await res.json());
         return new Error("Error happened whilst fetching from API");
       } catch (error) {
-        if (error.name !== "AbortError") alert(error.message);
+        if (error.name !== "AbortError") console.log("An error happened: " + error.message);
       }
     })();
 
@@ -35,9 +35,9 @@ function App() {
       <hr className="my-8 h-px bg-gray-200 border-0 dark:bg-gray-700" />
       <div className="flex flex-wrap gap-3 justify-center">
         { films ? films.results.sort((a, b) => (a.episode_id < b.episode_id) ? -1 : ((a.episode_id > b.episode_id) ? 1 : 0)).map((film, index) => <Film key={ index } content={ film } />) : (
-          <div class="flex justify-center items-center">
-            <div class="spinner-border animate-spin inline-block w-8 h-8 border-4 rounded-full" role="status">
-              <span class="visually-hidden">Loading...</span>
+          <div className="flex justify-center items-center">
+            <div className="spinner-border animate-spin inline-block w-8 h-8 border-4 rounded-full" role="status">
+              <span className="visually-hidden">Loading...</span>
             </div>
           </div>
         ) }
