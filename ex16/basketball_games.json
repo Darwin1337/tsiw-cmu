@@ -1,0 +1,98 @@
+[
+  {
+     "team1":{
+        "name":"Los Angeles Lakers",
+        "logo":"https://www.flashscore.pt/res/image/data/06fGDMdM-dUqS0eeF.png",
+        "home_stadium":true,
+        "score":"128"
+     },
+     "team2":{
+        "name":"Detroit Pistons",
+        "logo":"https://www.flashscore.pt/res/image/data/MoYJBde5-zBo7MEUA.png",
+        "home_stadium":false,
+        "score":"121"
+     },
+     "stadium":"Crypto.com Arena",
+     "date":"Sat Nov 19 2022 03:30:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"Golden State Warriors",
+        "logo":"https://www.flashscore.pt/res/image/data/ptyTvYeM-buTsBjXI.png",
+        "home_stadium":true,
+        "score":"111"
+     },
+     "team2":{
+        "name":"New York Knicks",
+        "logo":"https://www.flashscore.pt/res/image/data/UBTxFpcM-lGOHjBX7.png",
+        "home_stadium":false,
+        "score":"101"
+     },
+     "stadium":"Chase Center",
+     "date":"Sat Nov 19 2022 03:00:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"Los Angeles Lakers",
+        "logo":"https://www.flashscore.pt/res/image/data/06fGDMdM-dUqS0eeF.png",
+        "home_stadium":true,
+        "score":"128"
+     },
+     "team2":{
+        "name":"Detroit Pistons",
+        "logo":"https://www.flashscore.pt/res/image/data/MoYJBde5-zBo7MEUA.png",
+        "home_stadium":false,
+        "score":"121"
+     },
+     "stadium":"Crypto.com Arena",
+     "date":"Sat Nov 19 2022 03:30:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"Golden State Warriors",
+        "logo":"https://www.flashscore.pt/res/image/data/ptyTvYeM-buTsBjXI.png",
+        "home_stadium":true,
+        "score":"111"
+     },
+     "team2":{
+        "name":"New York Knicks",
+        "logo":"https://www.flashscore.pt/res/image/data/UBTxFpcM-lGOHjBX7.png",
+        "home_stadium":false,
+        "score":"101"
+     },
+     "stadium":"Chase Center",
+     "date":"Sat Nov 19 2022 03:00:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"Los Angeles Lakers",
+        "logo":"https://www.flashscore.pt/res/image/data/06fGDMdM-dUqS0eeF.png",
+        "home_stadium":true,
+        "score":"128"
+     },
+     "team2":{
+        "name":"Detroit Pistons",
+        "logo":"https://www.flashscore.pt/res/image/data/MoYJBde5-zBo7MEUA.png",
+        "home_stadium":false,
+        "score":"121"
+     },
+     "stadium":"Crypto.com Arena",
+     "date":"Sat Nov 19 2022 03:30:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"Golden State Warriors",
+        "logo":"https://www.flashscore.pt/res/image/data/ptyTvYeM-buTsBjXI.png",
+        "home_stadium":true,
+        "score":"111"
+     },
+     "team2":{
+        "name":"New York Knicks",
+        "logo":"https://www.flashscore.pt/res/image/data/UBTxFpcM-lGOHjBX7.png",
+        "home_stadium":false,
+        "score":"101"
+     },
+     "stadium":"Chase Center",
+     "date":"Sat Nov 19 2022 03:00:00 GMT+0000"
+  }
+]

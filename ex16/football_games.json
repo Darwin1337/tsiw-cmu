@@ -1,0 +1,162 @@
+[
+  {
+     "team1":{
+        "name":"FC Porto",
+        "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+        "home_stadium":true,
+        "score":"5"
+     },
+     "team2":{
+        "name":"SL Benfica",
+        "logo":"https://www.flashscore.pt/res/image/data/AZHdTBf5-APs5hkKG.png",
+        "home_stadium":false,
+        "score":"0"
+     },
+     "stadium":"Estádio do Dragão",
+     "date":"Sun Nov 07 2010 20:15:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"FC Porto",
+        "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+        "home_stadium":true,
+        "score":"2"
+     },
+     "team2":{
+        "name":"Juventus",
+        "logo":"https://www.flashscore.pt/res/image/data/CbDOFGyS-QPFkwCmU.png",
+        "home_stadium":false,
+        "score":"1"
+     },
+     "stadium":"Estádio do Dragão",
+     "date":"Wed Feb 17 2021 20:00:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"FC Porto",
+        "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+        "home_stadium":true,
+        "score":"5"
+     },
+     "team2":{
+        "name":"SL Benfica",
+        "logo":"https://www.flashscore.pt/res/image/data/AZHdTBf5-APs5hkKG.png",
+        "home_stadium":false,
+        "score":"0"
+     },
+     "stadium":"Estádio do Dragão",
+     "date":"Sun Nov 07 2010 20:15:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"FC Porto",
+        "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+        "home_stadium":true,
+        "score":"2"
+     },
+     "team2":{
+        "name":"Juventus",
+        "logo":"https://www.flashscore.pt/res/image/data/CbDOFGyS-QPFkwCmU.png",
+        "home_stadium":false,
+        "score":"1"
+     },
+     "stadium":"Estádio do Dragão",
+     "date":"Wed Feb 17 2021 20:00:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"FC Porto",
+        "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+        "home_stadium":true,
+        "score":"5"
+     },
+     "team2":{
+        "name":"SL Benfica",
+        "logo":"https://www.flashscore.pt/res/image/data/AZHdTBf5-APs5hkKG.png",
+        "home_stadium":false,
+        "score":"0"
+     },
+     "stadium":"Estádio do Dragão",
+     "date":"Sun Nov 07 2010 20:15:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"FC Porto",
+        "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+        "home_stadium":true,
+        "score":"2"
+     },
+     "team2":{
+        "name":"Juventus",
+        "logo":"https://www.flashscore.pt/res/image/data/CbDOFGyS-QPFkwCmU.png",
+        "home_stadium":false,
+        "score":"1"
+     },
+     "stadium":"Estádio do Dragão",
+     "date":"Wed Feb 17 2021 20:00:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"FC Porto",
+        "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+        "home_stadium":true,
+        "score":"5"
+     },
+     "team2":{
+        "name":"SL Benfica",
+        "logo":"https://www.flashscore.pt/res/image/data/AZHdTBf5-APs5hkKG.png",
+        "home_stadium":false,
+        "score":"0"
+     },
+     "stadium":"Estádio do Dragão",
+     "date":"Sun Nov 07 2010 20:15:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"FC Porto",
+        "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+        "home_stadium":true,
+        "score":"2"
+     },
+     "team2":{
+        "name":"Juventus",
+        "logo":"https://www.flashscore.pt/res/image/data/CbDOFGyS-QPFkwCmU.png",
+        "home_stadium":false,
+        "score":"1"
+     },
+     "stadium":"Estádio do Dragão",
+     "date":"Wed Feb 17 2021 20:00:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"FC Porto",
+        "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+        "home_stadium":true,
+        "score":"5"
+     },
+     "team2":{
+        "name":"SL Benfica",
+        "logo":"https://www.flashscore.pt/res/image/data/AZHdTBf5-APs5hkKG.png",
+        "home_stadium":false,
+        "score":"0"
+     },
+     "stadium":"Estádio do Dragão",
+     "date":"Sun Nov 07 2010 20:15:00 GMT+0000"
+  },
+  {
+     "team1":{
+        "name":"FC Porto",
+        "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+        "home_stadium":true,
+        "score":"2"
+     },
+     "team2":{
+        "name":"Juventus",
+        "logo":"https://www.flashscore.pt/res/image/data/CbDOFGyS-QPFkwCmU.png",
+        "home_stadium":false,
+        "score":"1"
+     },
+     "stadium":"Estádio do Dragão",
+     "date":"Wed Feb 17 2021 20:00:00 GMT+0000"
+  }
+]
