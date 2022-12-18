@@ -1,0 +1,922 @@
+[
+  {
+    "team1":{
+      "name":"FC Porto",
+      "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+      "home_stadium":true,
+      "score":"5",
+      "lineup":[
+        {
+          "name":"Helton",
+          "number":"1"
+        },
+        {
+          "name":"Săpunaru",
+          "number":"21"
+        },
+        {
+          "name":"Maicon",
+          "number":"4"
+        },
+        {
+          "name":"Rolando",
+          "number":"14"
+        },
+        {
+          "name":"A. Pereira",
+          "number":"5"
+        },
+        {
+          "name":"Guarín",
+          "number":"6"
+        },
+        {
+          "name":"Moutinho",
+          "number":"8"
+        },
+        {
+          "name":"Belluschi",
+          "number":"7"
+        },
+        {
+          "name":"Hulk",
+          "number":"12"
+        },
+        {
+          "name":"Varela",
+          "number":"17"
+        },
+        {
+          "name":"Falcao",
+          "number":"9"
+        }
+      ]
+    },
+    "team2":{
+      "name":"SL Benfica",
+      "logo":"https://www.flashscore.pt/res/image/data/AZHdTBf5-APs5hkKG.png",
+      "home_stadium":false,
+      "score":"0",
+      "lineup":[
+        {
+          "name":"Roberto",
+          "number":"12"
+        },
+        {
+          "name":"Maxi Pereira",
+          "number":"14"
+        },
+        {
+          "name":"Luisão",
+          "number":"4"
+        },
+        {
+          "name":"David Luiz",
+          "number":"23"
+        },
+        {
+          "name":"Sidnei",
+          "number":"27"
+        },
+        {
+          "name":"F. Coentrão",
+          "number":"18"
+        },
+        {
+          "name":"Javi García",
+          "number":"6"
+        },
+        {
+          "name":"Pablo Aimar",
+          "number":"10"
+        },
+        {
+          "name":"C. Martins",
+          "number":"17"
+        },
+        {
+          "name":"Toto Salvio",
+          "number":"8"
+        },
+        {
+          "name":"Alan Kardec",
+          "number":"31"
+        }
+      ]
+    },
+    "league":"Liga Sagres",
+    "year":"2010/11",
+    "round":"10",
+    "referee":{
+      "name":"Pedro Proença",
+      "nationality":"POR"
+    },
+    "stadium":"Estádio do Dragão",
+    "date":"Sun Nov 07 2010 20:15:00 GMT+0000"
+  },
+  {
+    "team1":{
+      "name":"FC Porto",
+      "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+      "home_stadium":true,
+      "score":"2",
+      "lineup":[
+        {
+          "name":"Marchesín",
+          "number":"1"
+        },
+        {
+          "name":"Manafá",
+          "number":"18"
+        },
+        {
+          "name":"Pepe",
+          "number":"3"
+        },
+        {
+          "name":"Mbemba",
+          "number":"19"
+        },
+        {
+          "name":"Zaidu",
+          "number":"12"
+        },
+        {
+          "name":"Corona",
+          "number":"17"
+        },
+        {
+          "name":"Uribe",
+          "number":"8"
+        },
+        {
+          "name":"S. Oliveira",
+          "number":"27"
+        },
+        {
+          "name":"Otávio",
+          "number":"25"
+        },
+        {
+          "name":"Taremi",
+          "number":"9"
+        },
+        {
+          "name":"Marega",
+          "number":"11"
+        }
+      ]
+    },
+    "team2":{
+      "name":"Juventus",
+      "logo":"https://www.flashscore.pt/res/image/data/CbDOFGyS-QPFkwCmU.png",
+      "home_stadium":false,
+      "score":"1",
+      "lineup":[
+        {
+          "name":"Szczesny",
+          "number":"1"
+        },
+        {
+          "name":"Danilo",
+          "number":"13"
+        },
+        {
+          "name":"Chiellini",
+          "number":"3"
+        },
+        {
+          "name":"de Ligt",
+          "number":"4"
+        },
+        {
+          "name":"Alex Sandro",
+          "number":"12"
+        },
+        {
+          "name":"Chiesa",
+          "number":"22"
+        },
+        {
+          "name":"Rabiot",
+          "number":"25"
+        },
+        {
+          "name":"R. Bentancur",
+          "number":"30"
+        },
+        {
+          "name":"McKennie",
+          "number":"14"
+        },
+        {
+          "name":"C. Ronaldo",
+          "number":"7"
+        },
+        {
+          "name":"Kulusevski",
+          "number":"44"
+        }
+      ]
+    },
+    "league":"UEFA Champions League",
+    "year":"2020/21",
+    "round":"of 16 - 1st Leg",
+    "referee":{
+      "name":"Del Cerro Grande",
+      "nationality":"ESP"
+    },
+    "stadium":"Estádio do Dragão",
+    "date":"Wed Feb 17 2021 20:00:00 GMT+0000"
+  },
+  {
+    "team1":{
+      "name":"FC Porto",
+      "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+      "home_stadium":true,
+      "score":"5",
+      "lineup":[
+        {
+          "name":"Helton",
+          "number":"1"
+        },
+        {
+          "name":"Săpunaru",
+          "number":"21"
+        },
+        {
+          "name":"Maicon",
+          "number":"4"
+        },
+        {
+          "name":"Rolando",
+          "number":"14"
+        },
+        {
+          "name":"A. Pereira",
+          "number":"5"
+        },
+        {
+          "name":"Guarín",
+          "number":"6"
+        },
+        {
+          "name":"Moutinho",
+          "number":"8"
+        },
+        {
+          "name":"Belluschi",
+          "number":"7"
+        },
+        {
+          "name":"Hulk",
+          "number":"12"
+        },
+        {
+          "name":"Varela",
+          "number":"17"
+        },
+        {
+          "name":"Falcao",
+          "number":"9"
+        }
+      ]
+    },
+    "team2":{
+      "name":"SL Benfica",
+      "logo":"https://www.flashscore.pt/res/image/data/AZHdTBf5-APs5hkKG.png",
+      "home_stadium":false,
+      "score":"0",
+      "lineup":[
+        {
+          "name":"Roberto",
+          "number":"12"
+        },
+        {
+          "name":"Maxi Pereira",
+          "number":"14"
+        },
+        {
+          "name":"Luisão",
+          "number":"4"
+        },
+        {
+          "name":"David Luiz",
+          "number":"23"
+        },
+        {
+          "name":"Sidnei",
+          "number":"27"
+        },
+        {
+          "name":"F. Coentrão",
+          "number":"18"
+        },
+        {
+          "name":"Javi García",
+          "number":"6"
+        },
+        {
+          "name":"Pablo Aimar",
+          "number":"10"
+        },
+        {
+          "name":"C. Martins",
+          "number":"17"
+        },
+        {
+          "name":"Toto Salvio",
+          "number":"8"
+        },
+        {
+          "name":"Alan Kardec",
+          "number":"31"
+        }
+      ]
+    },
+    "league":"Liga Sagres",
+    "year":"2010/11",
+    "round":"10",
+    "referee":{
+      "name":"Pedro Proença",
+      "nationality":"POR"
+    },
+    "stadium":"Estádio do Dragão",
+    "date":"Sun Nov 07 2010 20:15:00 GMT+0000"
+  },
+  {
+    "team1":{
+      "name":"FC Porto",
+      "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+      "home_stadium":true,
+      "score":"2",
+      "lineup":[
+        {
+          "name":"Marchesín",
+          "number":"1"
+        },
+        {
+          "name":"Manafá",
+          "number":"18"
+        },
+        {
+          "name":"Pepe",
+          "number":"3"
+        },
+        {
+          "name":"Mbemba",
+          "number":"19"
+        },
+        {
+          "name":"Zaidu",
+          "number":"12"
+        },
+        {
+          "name":"Corona",
+          "number":"17"
+        },
+        {
+          "name":"Uribe",
+          "number":"8"
+        },
+        {
+          "name":"S. Oliveira",
+          "number":"27"
+        },
+        {
+          "name":"Otávio",
+          "number":"25"
+        },
+        {
+          "name":"Taremi",
+          "number":"9"
+        },
+        {
+          "name":"Marega",
+          "number":"11"
+        }
+      ]
+    },
+    "team2":{
+      "name":"Juventus",
+      "logo":"https://www.flashscore.pt/res/image/data/CbDOFGyS-QPFkwCmU.png",
+      "home_stadium":false,
+      "score":"1",
+      "lineup":[
+        {
+          "name":"Szczesny",
+          "number":"1"
+        },
+        {
+          "name":"Danilo",
+          "number":"13"
+        },
+        {
+          "name":"Chiellini",
+          "number":"3"
+        },
+        {
+          "name":"de Ligt",
+          "number":"4"
+        },
+        {
+          "name":"Alex Sandro",
+          "number":"12"
+        },
+        {
+          "name":"Chiesa",
+          "number":"22"
+        },
+        {
+          "name":"Rabiot",
+          "number":"25"
+        },
+        {
+          "name":"R. Bentancur",
+          "number":"30"
+        },
+        {
+          "name":"McKennie",
+          "number":"14"
+        },
+        {
+          "name":"C. Ronaldo",
+          "number":"7"
+        },
+        {
+          "name":"Kulusevski",
+          "number":"44"
+        }
+      ]
+    },
+    "league":"UEFA Champions League",
+    "year":"2020/21",
+    "round":"of 16 - 1st Leg",
+    "referee":{
+      "name":"Del Cerro Grande",
+      "nationality":"ESP"
+    },
+    "stadium":"Estádio do Dragão",
+    "date":"Wed Feb 17 2021 20:00:00 GMT+0000"
+  },
+  {
+    "team1":{
+      "name":"FC Porto",
+      "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+      "home_stadium":true,
+      "score":"5",
+      "lineup":[
+        {
+          "name":"Helton",
+          "number":"1"
+        },
+        {
+          "name":"Săpunaru",
+          "number":"21"
+        },
+        {
+          "name":"Maicon",
+          "number":"4"
+        },
+        {
+          "name":"Rolando",
+          "number":"14"
+        },
+        {
+          "name":"A. Pereira",
+          "number":"5"
+        },
+        {
+          "name":"Guarín",
+          "number":"6"
+        },
+        {
+          "name":"Moutinho",
+          "number":"8"
+        },
+        {
+          "name":"Belluschi",
+          "number":"7"
+        },
+        {
+          "name":"Hulk",
+          "number":"12"
+        },
+        {
+          "name":"Varela",
+          "number":"17"
+        },
+        {
+          "name":"Falcao",
+          "number":"9"
+        }
+      ]
+    },
+    "team2":{
+      "name":"SL Benfica",
+      "logo":"https://www.flashscore.pt/res/image/data/AZHdTBf5-APs5hkKG.png",
+      "home_stadium":false,
+      "score":"0",
+      "lineup":[
+        {
+          "name":"Roberto",
+          "number":"12"
+        },
+        {
+          "name":"Maxi Pereira",
+          "number":"14"
+        },
+        {
+          "name":"Luisão",
+          "number":"4"
+        },
+        {
+          "name":"David Luiz",
+          "number":"23"
+        },
+        {
+          "name":"Sidnei",
+          "number":"27"
+        },
+        {
+          "name":"F. Coentrão",
+          "number":"18"
+        },
+        {
+          "name":"Javi García",
+          "number":"6"
+        },
+        {
+          "name":"Pablo Aimar",
+          "number":"10"
+        },
+        {
+          "name":"C. Martins",
+          "number":"17"
+        },
+        {
+          "name":"Toto Salvio",
+          "number":"8"
+        },
+        {
+          "name":"Alan Kardec",
+          "number":"31"
+        }
+      ]
+    },
+    "league":"Liga Sagres",
+    "year":"2010/11",
+    "round":"10",
+    "referee":{
+      "name":"Pedro Proença",
+      "nationality":"POR"
+    },
+    "stadium":"Estádio do Dragão",
+    "date":"Sun Nov 07 2010 20:15:00 GMT+0000"
+  },
+  {
+    "team1":{
+      "name":"FC Porto",
+      "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+      "home_stadium":true,
+      "score":"2",
+      "lineup":[
+        {
+          "name":"Marchesín",
+          "number":"1"
+        },
+        {
+          "name":"Manafá",
+          "number":"18"
+        },
+        {
+          "name":"Pepe",
+          "number":"3"
+        },
+        {
+          "name":"Mbemba",
+          "number":"19"
+        },
+        {
+          "name":"Zaidu",
+          "number":"12"
+        },
+        {
+          "name":"Corona",
+          "number":"17"
+        },
+        {
+          "name":"Uribe",
+          "number":"8"
+        },
+        {
+          "name":"S. Oliveira",
+          "number":"27"
+        },
+        {
+          "name":"Otávio",
+          "number":"25"
+        },
+        {
+          "name":"Taremi",
+          "number":"9"
+        },
+        {
+          "name":"Marega",
+          "number":"11"
+        }
+      ]
+    },
+    "team2":{
+      "name":"Juventus",
+      "logo":"https://www.flashscore.pt/res/image/data/CbDOFGyS-QPFkwCmU.png",
+      "home_stadium":false,
+      "score":"1",
+      "lineup":[
+        {
+          "name":"Szczesny",
+          "number":"1"
+        },
+        {
+          "name":"Danilo",
+          "number":"13"
+        },
+        {
+          "name":"Chiellini",
+          "number":"3"
+        },
+        {
+          "name":"de Ligt",
+          "number":"4"
+        },
+        {
+          "name":"Alex Sandro",
+          "number":"12"
+        },
+        {
+          "name":"Chiesa",
+          "number":"22"
+        },
+        {
+          "name":"Rabiot",
+          "number":"25"
+        },
+        {
+          "name":"R. Bentancur",
+          "number":"30"
+        },
+        {
+          "name":"McKennie",
+          "number":"14"
+        },
+        {
+          "name":"C. Ronaldo",
+          "number":"7"
+        },
+        {
+          "name":"Kulusevski",
+          "number":"44"
+        }
+      ]
+    },
+    "league":"UEFA Champions League",
+    "year":"2020/21",
+    "round":"of 16 - 1st Leg",
+    "referee":{
+      "name":"Del Cerro Grande",
+      "nationality":"ESP"
+    },
+    "stadium":"Estádio do Dragão",
+    "date":"Wed Feb 17 2021 20:00:00 GMT+0000"
+  },
+  {
+    "team1":{
+      "name":"FC Porto",
+      "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+      "home_stadium":true,
+      "score":"5",
+      "lineup":[
+        {
+          "name":"Helton",
+          "number":"1"
+        },
+        {
+          "name":"Săpunaru",
+          "number":"21"
+        },
+        {
+          "name":"Maicon",
+          "number":"4"
+        },
+        {
+          "name":"Rolando",
+          "number":"14"
+        },
+        {
+          "name":"A. Pereira",
+          "number":"5"
+        },
+        {
+          "name":"Guarín",
+          "number":"6"
+        },
+        {
+          "name":"Moutinho",
+          "number":"8"
+        },
+        {
+          "name":"Belluschi",
+          "number":"7"
+        },
+        {
+          "name":"Hulk",
+          "number":"12"
+        },
+        {
+          "name":"Varela",
+          "number":"17"
+        },
+        {
+          "name":"Falcao",
+          "number":"9"
+        }
+      ]
+    },
+    "team2":{
+      "name":"SL Benfica",
+      "logo":"https://www.flashscore.pt/res/image/data/AZHdTBf5-APs5hkKG.png",
+      "home_stadium":false,
+      "score":"0",
+      "lineup":[
+        {
+          "name":"Roberto",
+          "number":"12"
+        },
+        {
+          "name":"Maxi Pereira",
+          "number":"14"
+        },
+        {
+          "name":"Luisão",
+          "number":"4"
+        },
+        {
+          "name":"David Luiz",
+          "number":"23"
+        },
+        {
+          "name":"Sidnei",
+          "number":"27"
+        },
+        {
+          "name":"F. Coentrão",
+          "number":"18"
+        },
+        {
+          "name":"Javi García",
+          "number":"6"
+        },
+        {
+          "name":"Pablo Aimar",
+          "number":"10"
+        },
+        {
+          "name":"C. Martins",
+          "number":"17"
+        },
+        {
+          "name":"Toto Salvio",
+          "number":"8"
+        },
+        {
+          "name":"Alan Kardec",
+          "number":"31"
+        }
+      ]
+    },
+    "league":"Liga Sagres",
+    "year":"2010/11",
+    "round":"10",
+    "referee":{
+      "name":"Pedro Proença",
+      "nationality":"POR"
+    },
+    "stadium":"Estádio do Dragão",
+    "date":"Sun Nov 07 2010 20:15:00 GMT+0000"
+  },
+  {
+    "team1":{
+      "name":"FC Porto",
+      "logo":"https://www.flashscore.pt/res/image/data/2sDzOhWg-hnQDiYVu.png",
+      "home_stadium":true,
+      "score":"2",
+      "lineup":[
+        {
+          "name":"Marchesín",
+          "number":"1"
+        },
+        {
+          "name":"Manafá",
+          "number":"18"
+        },
+        {
+          "name":"Pepe",
+          "number":"3"
+        },
+        {
+          "name":"Mbemba",
+          "number":"19"
+        },
+        {
+          "name":"Zaidu",
+          "number":"12"
+        },
+        {
+          "name":"Corona",
+          "number":"17"
+        },
+        {
+          "name":"Uribe",
+          "number":"8"
+        },
+        {
+          "name":"S. Oliveira",
+          "number":"27"
+        },
+        {
+          "name":"Otávio",
+          "number":"25"
+        },
+        {
+          "name":"Taremi",
+          "number":"9"
+        },
+        {
+          "name":"Marega",
+          "number":"11"
+        }
+      ]
+    },
+    "team2":{
+      "name":"Juventus",
+      "logo":"https://www.flashscore.pt/res/image/data/CbDOFGyS-QPFkwCmU.png",
+      "home_stadium":false,
+      "score":"1",
+      "lineup":[
+        {
+          "name":"Szczesny",
+          "number":"1"
+        },
+        {
+          "name":"Danilo",
+          "number":"13"
+        },
+        {
+          "name":"Chiellini",
+          "number":"3"
+        },
+        {
+          "name":"de Ligt",
+          "number":"4"
+        },
+        {
+          "name":"Alex Sandro",
+          "number":"12"
+        },
+        {
+          "name":"Chiesa",
+          "number":"22"
+        },
+        {
+          "name":"Rabiot",
+          "number":"25"
+        },
+        {
+          "name":"R. Bentancur",
+          "number":"30"
+        },
+        {
+          "name":"McKennie",
+          "number":"14"
+        },
+        {
+          "name":"C. Ronaldo",
+          "number":"7"
+        },
+        {
+          "name":"Kulusevski",
+          "number":"44"
+        }
+      ]
+    },
+    "league":"UEFA Champions League",
+    "year":"2020/21",
+    "round":"of 16 - 1st Leg",
+    "referee":{
+      "name":"Del Cerro Grande",
+      "nationality":"ESP"
+    },
+    "stadium":"Estádio do Dragão",
+    "date":"Wed Feb 17 2021 20:00:00 GMT+0000"
+  }
+]
