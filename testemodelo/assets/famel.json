@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Porto",
+    "image": "https://images.unsplash.com/photo-1569959220744-ff553533f492?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2090&q=80",
+    "coordinates": {
+      "latitude": 41.16058680615633,
+      "longitude": -8.62847721643875,
+      "latitudeDelta": 0.015,
+      "longitudeDelta": 0.0121
+    }
+  },
+  {
+    "name": "Lisboa",
+    "image": "https://images.unsplash.com/photo-1580323956656-26bbb1206e34?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3265&q=80",
+    "coordinates": {
+      "latitude": 38.72514244222639,
+      "longitude": -9.139775993995496,
+      "latitudeDelta": 0.015,
+      "longitudeDelta": 0.0121
+    }
+  },
+  {
+    "name": "Aveiro",
+    "image": "https://images.unsplash.com/photo-1531772337062-9d94547f333f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1817&q=80",
+    "coordinates": {
+      "latitude": 40.64126882354196,
+      "longitude": -8.653983522313366,
+      "latitudeDelta": 0.015,
+      "longitudeDelta": 0.0121
+    }
+  }
+]
